@@ -1,0 +1,50 @@
+5. Lecture 5: Java Networking with sockets
+   Learning Java: Chapter 13 (471-484)
+   Effective Java:
+   
+   
+   
+What is a socket - slide 2
+
+why is the paradigm useful? - slide 5
+
+conceptual client-server program - slide 6
+
+  java.net.InetAddress
+  java.net.Socket
+  java.net.ServerSocket
+  
+important classes, - slide 10
+
+Socket -  slide 11
+
+ServerSocket - slide 12
+
+
+What is a message?
+- slide 16
+
+Distributed objects -  slide 18
+
+message passing - slide 19
+-synchronous/asynchtonous
+
+port number - slide 20
+
+Examples:
+-establishing a connection slide 23
+
+knockknock homework slide 30
+
+connecting to multiple clients slide 38
+
+
+
+
+last week install android studio
+
+
+
+
+
+

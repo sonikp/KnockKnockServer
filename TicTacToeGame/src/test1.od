@@ -1,0 +1,46 @@
+0000000   \t   /   /       p   r   i   v   a   t   e       i   n   n   e
+0000020    r       c   l   a   s   s       f   o   r       t   h   e    
+0000040    s   q   u   a   r   e   s       o   n       t   h   e       b
+0000060    o   a   r   d  \n  \t   p   r   i   v   a   t   e       c   l
+0000100    a   s   s       S   q   u   a   r   e       e   x   t   e   n
+0000120    d   s       J   P   a   n   e   l       {  \n  \t  \t  \n  \t
+0000140   \t   p   r   i   v   a   t   e       S   t   r   i   n   g    
+0000160    m   a   r   k   ;  \t   /   /       m   a   r   k       t   o
+0000200        b   e       d   r   a   w   n  \n  \t  \t   p   r   i   v
+0000220    a   t   e       i   n   t       l   o   c   a   t   i   o   n
+0000240    ;      \t   /   /       l   o   c   a   t   i   o   n       o
+0000260    f       s   q   u   a   r   e  \n  \t  \t  \n  \t  \t   p   u
+0000300    b   l   i   c       S   q   u   a   r   e   (   S   t   r   i
+0000320    n   g       s   q   u   a   r   e   M   a   r   k   ,       i
+0000340    n   t       s   q   u   a   r   e   L   o   c   a   t   i   o
+0000360    n   )       {  \n  \t  \t  \t  \n  \t  \t  \t   m   a   r   k
+0000400        =       s   q   u   a   r   e   M   a   r   k   ;  \t  \t
+0000420   \t  \t   /   /       s   e   t       m   a   r   k       f   o
+0000440    r       t   h   i   s       s   q   u   a   r   e  \n  \n  \t
+0000460   \t   }  \n  \t  \t  \n  \t  \t   /   /       r   e   t   u   r
+0000500    n       p   r   e   f   e   r   r   e   d       s   i   z   e
+0000520        o   f       S   q   u   a   r   e  \n  \t  \t   p   u   b
+0000540    l   i   c       D   i   m   e   n   s   i   o   n       g   e
+0000560    t   P   r   e   f   e   r   r   e   d   S   i   z   e   (   )
+0000600        {  \n  \t  \t  \t   r   e   t   u   r   n       n   e   w
+0000620        D   i   m   e   n   s   i   o   n   (   3   0   ,       3
+0000640    0   )   ;      \t  \t   /   /       r   e   t   u   r   n    
+0000660    p   r   e   f   e   r   r   e   d       s   i   z   e  \n  \t
+0000700   \t   }  \n  \t  \t  \n  \n  \t  \t  \n  \t  \t   /   /       d
+0000720    r   a   w       S   q   u   a   r   e  \n  \t  \t   p   u   b
+0000740    l   i   c       v   o   i   d       p   a   i   n   t   C   o
+0000760    m   p   o   n   e   n   t   s   (   G   r   a   p   h   i   c
+0001000    s       g   )       {  \n  \t  \t  \t  \n  \t  \t  \t   s   u
+0001020    p   e   r   .   p   a   i   n   t   C   o   m   p   o   n   e
+0001040    n   t   (   g   )   ;  \t  \t  \t  \n  \t  \t  \t   g   .   d
+0001060    r   a   w   R   e   c   t   (   0   ,           0   ,       2
+0001100    9   ,       2   9   )   ;      \t   /   /       d   r   a   w
+0001120        s   q   u   a   r   e  \n  \t  \t  \t   g   .   d   r   a
+0001140    w   S   t   r   i   n   g   (   m   a   r   k   ,       1   1
+0001160    ,       2   0   )   ;       /   /       d   r   a   w       m
+0001200    a   r   k  \n  \t  \t   }  \n  \t   }       /   /       e   n
+0001220    d       i   n   n   e   r       c   l   a   s   s       S   q
+0001240    u   a   r   e  \n  \t  \n   }       /   /       e   n   d    
+0001260    c   l   a   s   s       T   i   c   T   a   c   T   o   e   C
+0001300    l   i   e   n   t  \n                                        
+0001306

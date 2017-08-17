@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="313" key="DIALOG_X_ORIGIN"/>
+		<item value="16" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="750" key="dialogHeight"/>
+		<item value="1200" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="FileSystemExportWizard">
+		<item value="false" key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID"/>
+		<item value="false" key="WizardFileSystemResourceExportPage1.STORE_RESOLVE_LINKED_RESOURCES_ID"/>
+		<item value="false" key="WizardFileSystemResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardFileSystemResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIV/Assignment1"/>
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/temp"/>
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIII"/>
+			<item value="/Users/mfloerchinger/Documents/Data/temp/temp"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.FileSystem" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.FileSystem" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIV/lessons/lecture4_updated/lecture4_updated/ch23/Fig23_03_04"/>
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIV/Assignment1"/>
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIV/lecture2code/test"/>
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIV/lecture2code/lecture2"/>
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIV"/>
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIII/Assignment3"/>
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIII/dbTemp"/>
+			<item value="/Users/mfloerchinger/Documents/z.JAVA-school/z.JavaSchool/JavaIII"/>
+			<item value="/Users/mfloerchinger/Documents/Data/temp/temp/AssignmentModule2"/>
+			<item value="/Users/mfloerchinger/Documents/Data/temp/temp"/>
+			<item value="/Users/mfloerchinger/Documents/Data/temp"/>
+			<item value="/Users/mfloerchinger/Documents/workspace-Java/JavaIII/z.School"/>
+		</list>
+	</section>
+</section>

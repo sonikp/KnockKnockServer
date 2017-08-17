@@ -1,0 +1,123 @@
+
+
+// client side of client/sever Tic-Tac-Toe program
+
+import java.awt.BorderLayout;
+import java.awt.Dimension;
+import java.awt.Graphics;
+import java.awt.GridLayout;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.net.Socket;
+import java.net.InetAddress;
+import java.io.IOException;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
+import javax.swing.JTextArea;
+import javax.swing.JTextField;
+import javax.swing.SwingUtilities;
+
+
+
+import java.util.Formatter;
+import java.util.Scanner;
+import java.util.concurrent.Executors;
+import java.util.concurrent.ExecutorService;
+
+public class TTTClient_SELF extends JFrame implements Runnable {
+	
+	
+	private JTextField idField;	// textfield to display player's mark
+	private JButton testButton;
+	private JTextArea displayArea;
+	private JPanel boardPanel;
+	private JPanel panel2;
+	private Square[][] board;	// tic-tac-toe board
+	private Square currentSquare;
+	private Socket connection;
+	private Scanner input;
+	private Formatter output;
+	private String ticTacToeHost;	// hostname for server
+	private String myMark;	// this client's mark
+	private boolean myTurn; // determines which client's turn it is
+	private final String X_MARK = "X";
+	private final String O_MARK = "O";
+	
+	// constructor:: set-up user-interface and board
+	public TTTClient_SELF(String host) {
+		
+		System.out.println("TTTClient_SELF");
+
+
+
+		
+		
+	}	// end constructor
+	
+	// start client thread
+	public void startClient() {
+
+	}	// end startClient
+	
+	// control thread that allows continuous update of displayArea
+	public void run() {
+
+	}	// end run()
+	
+
+	
+	// private inner class for the squares on the board
+	private class Square extends JPanel {
+		
+		private String mark;	// mark to be drawn
+		private int location; 	// location of square
+		
+		public Square(String squareMark, int squareLocation) {
+			
+			mark = squareMark;				// set mark for this square
+
+		}
+		
+		// return preferred size of Square
+		public Dimension getPreferredSize() {
+			return new Dimension(30, 30); 		// return preferred size
+		}
+		
+
+		
+		// draw Square
+		public void paintComponents(Graphics g) {
+			
+			super.paintComponent(g);			
+			g.drawRect(0,  0, 29, 29); 	// draw square
+			g.drawString(mark, 11, 20); // draw mark
+		}
+	} // end inner class Square
+	
+} // end class TicTacToeClient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

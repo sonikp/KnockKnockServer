@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;TicTacToeGame/src&apos;&#x0A;- Original project: &apos;JavaIV&apos;&#x0A;- Destination element: &apos;TicTacToeGame/src&apos;&#x0A;- Original elements:&#x0A;     week5.TTTClient_SELF.java&#x0A;     week5.TTTClientTest_SELF.java&#x0A;     week5.TTTClient.java&#x0A;     week5.TTTClientTest.java" description="Copy compilation units" destination="=TicTacToeGame/src" element1="/src&lt;week5{TTTClient_SELF.java" element2="/src&lt;week5{TTTClientTest_SELF.java" element3="/src&lt;week5{TTTClient.java" element4="/src&lt;week5{TTTClientTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1502741756827" units="4" version="1.0"/>
+</session>

@@ -1,0 +1,51 @@
+0000000   \t   /   /       p   r   i   v   a   t   e       i   n   n   e
+0000020    r       c   l   a   s   s       f   o   r       t   h   e    
+0000040    s   q   u   a   r   e   s       o   n       t   h   e       b
+0000060    o   a   r   d  \n  \t   p   r   i   v   a   t   e       c   l
+0000100    a   s   s       S   q   u   a   r   e       e   x   t   e   n
+0000120    d   s       J   P   a   n   e   l      \n  \t   {  \n  \t  \t
+0000140    p   r   i   v   a   t   e       S   t   r   i   n   g       m
+0000160    a   r   k   ;       /   /       m   a   r   k       t   o    
+0000200    b   e       d   r   a   w   n       i   n       t   h   i   s
+0000220        s   q   u   a   r   e  \n  \t  \t   p   r   i   v   a   t
+0000240    e       i   n   t       l   o   c   a   t   i   o   n   ;    
+0000260    /   /       l   o   c   a   t   i   o   n       o   f       s
+0000300    q   u   a   r   e  \n  \n  \t  \t   p   u   b   l   i   c    
+0000320    S   q   u   a   r   e   (       S   t   r   i   n   g       s
+0000340    q   u   a   r   e   M   a   r   k   ,       i   n   t       s
+0000360    q   u   a   r   e   L   o   c   a   t   i   o   n       )  \n
+0000400   \t  \t   {  \n  \t  \t  \t   m   a   r   k       =       s   q
+0000420    u   a   r   e   M   a   r   k   ;  \t  \t  \t  \t   /   /    
+0000440    s   e   t       m   a   r   k       f   o   r       t   h   i
+0000460    s       s   q   u   a   r   e  \n  \t  \t   }       /   /    
+0000500    e   n   d       S   q   u   a   r   e       c   o   n   s   t
+0000520    r   u   c   t   o   r  \n  \n  \t  \t   /   /       r   e   t
+0000540    u   r   n       p   r   e   f   e   r   r   e   d       s   i
+0000560    z   e       o   f       S   q   u   a   r   e  \n  \t  \t   p
+0000600    u   b   l   i   c       D   i   m   e   n   s   i   o   n    
+0000620    g   e   t   P   r   e   f   e   r   r   e   d   S   i   z   e
+0000640    (   )      \n  \t  \t   {      \n  \t  \t  \t   r   e   t   u
+0000660    r   n       n   e   w       D   i   m   e   n   s   i   o   n
+0000700    (       3   0   ,       3   0       )   ;       /   /       r
+0000720    e   t   u   r   n       p   r   e   f   e   r   r   e   d    
+0000740    s   i   z   e  \n  \t  \t   }       /   /       e   n   d    
+0000760    m   e   t   h   o   d       g   e   t   P   r   e   f   e   r
+0001000    r   e   d   S   i   z   e  \n  \n  \n  \n  \t  \t   /   /    
+0001020    d   r   a   w       S   q   u   a   r   e  \n  \t  \t   p   u
+0001040    b   l   i   c       v   o   i   d       p   a   i   n   t   C
+0001060    o   m   p   o   n   e   n   t   (       G   r   a   p   h   i
+0001100    c   s       g       )  \n  \t  \t   {  \n  \t  \t  \t   s   u
+0001120    p   e   r   .   p   a   i   n   t   C   o   m   p   o   n   e
+0001140    n   t   (   g   )   ;  \n  \t  \t  \t   g   .   d   r   a   w
+0001160    R   e   c   t   (   0   ,           0   ,       2   9   ,    
+0001200    2   9   )   ;      \t   /   /       d   r   a   w       s   q
+0001220    u   a   r   e  \n  \t  \t  \t   g   .   d   r   a   w   S   t
+0001240    r   i   n   g   (   m   a   r   k   ,       1   1   ,       2
+0001260    0   )   ;       /   /       d   r   a   w       m   a   r   k
+0001300   \n  \n  \t  \t   }       /   /       e   n   d       m   e   t
+0001320    h   o   d       p   a   i   n   t   C   o   m   p   o   n   e
+0001340    n   t  \n  \t   }       /   /       e   n   d       i   n   n
+0001360    e   r   -   c   l   a   s   s       S   q   u   a   r   e  \n
+0001400    }       /   /       e   n   d       c   l   a   s   s       T
+0001420    i   c   T   a   c   T   o   e   C   l   i   e   n   t  \n    
+0001437
