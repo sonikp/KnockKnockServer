@@ -11,7 +11,7 @@ public class QuoteClient {
         }
 
 	// get a datagram socket
-        DatagramSocket socket = new DatagramSocket();
+    DatagramSocket socket = new DatagramSocket();
 
 	// send request
 	byte[] buf = new byte[256];
